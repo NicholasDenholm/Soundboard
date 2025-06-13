@@ -1,0 +1,16 @@
+# Ignore folders
+/drivers
+/venv
+/sounds
+
+# Bytecode files
+__pycache__/
+*.pytest
+*.pyc
+*.pyo
+
+# Distribution / Packaging
+*.egg-info/
+dist/
+build/
+src/
